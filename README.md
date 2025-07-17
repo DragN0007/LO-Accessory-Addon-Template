@@ -1,6 +1,8 @@
 # Example O-Equine Accessory Addon
 This addon can be used as a template to add your own custom saddles, armor, and/ or carpets.
 
+This is for LO-2.8, Forge 1.20.1.
+
 ### Licensing & Copyrights
 The addon you create from this must be free-to-play if you decide to distribute it. 
 You may not charge others for this addon to be used in any capacity. You can post this addon
