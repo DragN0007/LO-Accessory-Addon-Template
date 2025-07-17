@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="47,)"
+license="All Rights Reserved, DragN0007" #Do not change!
+[[mods]]
+modId="addon_template" # This should be your modid, which is addon_template by default but can be changed.
+version="${1.0}"
+displayName="Example LO Accessory Addon Template"
+logoFile="Optional.png"
+authors="Change Me!"
+description='''
+Change me!
+'''
+[[dependencies.addon_template]] # This should be dependencies.your_modid, which is addon_template by default but can be changed.
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.addon_template]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1]"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.addon_template]]
+modId="geckolib"
+mandatory=true
+versionRange = "[4.4.4,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.addon_template]]
+modId="patchouli"
+mandatory=true
+versionRange = "[1.20.1-84,)"
+ordering="NONE"
+side="BOTH"

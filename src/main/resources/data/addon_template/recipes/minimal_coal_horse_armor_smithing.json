@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:coal"
+  },
+  "base": {
+    "item": "addon_template:coal_horse_armor"
+  },
+  "result": {
+    "item": "addon_template:minimal_coal_horse_armor"
+  },
+  "template": {
+    "item": "dragnlivestock:light_horse_armor_smithing_template"
+  }
+}

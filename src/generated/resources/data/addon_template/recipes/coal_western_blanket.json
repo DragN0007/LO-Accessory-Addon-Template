@@ -1,0 +1,29 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "dragnlivestock:blanket_config_condition"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "A": {
+            "item": "minecraft:coal"
+          }
+        },
+        "pattern": [
+          "AAA",
+          "AAA"
+        ],
+        "result": {
+          "item": "addon_template:coal_western_blanket"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

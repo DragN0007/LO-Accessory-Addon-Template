@@ -1,0 +1,15 @@
+{
+  "itemGroup.addon_template": "Example LO Accessory Addon",
+
+  "item.addon_template.coal_horse_armor": "Coal Horse Armor",
+  "item.addon_template.minimal_coal_horse_armor": "Light Coal Horse Armor",
+
+  "item.addon_template.coal_saddle": "Coal Saddle",
+  "item.addon_template.coal_light_saddle": "Light Coal Saddle",
+  "item.addon_template.coal_heavy_saddle": "Heavy Coal Saddle",
+
+  "item.addon_template.coal_medieval_blanket": "Coal Medieval Blanket",
+  "item.addon_template.coal_modern_blanket": "Coal Modern Blanket",
+  "item.addon_template.coal_racing_blanket": "Coal Racing Blanket",
+  "item.addon_template.coal_western_blanket": "Coal Western Blanket"
+}

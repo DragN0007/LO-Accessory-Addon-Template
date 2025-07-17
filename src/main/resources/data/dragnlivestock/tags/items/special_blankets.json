@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "addon_template:coal_medieval_blanket",
+    "addon_template:coal_modern_blanket",
+    "addon_template:coal_racing_blanket",
+    "addon_template:coal_western_blanket"
+  ]
+}

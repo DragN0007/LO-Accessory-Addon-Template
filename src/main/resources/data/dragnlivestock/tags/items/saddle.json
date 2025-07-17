@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "addon_template:coal_saddle",
+    "addon_template:coal_light_saddle",
+    "addon_template:coal_heavy_saddle"
+  ]
+}

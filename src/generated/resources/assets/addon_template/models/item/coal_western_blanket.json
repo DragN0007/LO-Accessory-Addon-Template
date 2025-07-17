@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "addon_template:item/coal_western_blanket"
+  }
+}
