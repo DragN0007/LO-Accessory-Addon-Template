@@ -70,7 +70,6 @@ typing `./gradlew build`. This will build your .jar file and place it in build/l
 this file onto your computer somewhere and use it as a mod just like that!
 
 ### Pathways
-
 **Armor:**
 `assets/dragnlivestock/textures/entity/horse/armor/place_your_texture_here.png`
 
@@ -84,7 +83,6 @@ this file onto your computer somewhere and use it as a mod just like that!
 `assets/dragnlivestock/textures/entity/horse/tack/place_your_texture_here.png`
 
 ### Common Issues
-
 **You get an error telling you your versioning isn't correct**
 
 `Go to File > Project Structure > Project > Change your SDK in the dropdown to corretto-22. Build your gradle.`
@@ -96,6 +94,7 @@ _If you don't have that option, go to Add SDK > Download SDK > Download Amazon C
 `Build your gradle and then go to your Gradle tab > forgegradle runs > runClient to open the game for the first time`
 
 **You can't run DataGen**
+
 `Build your gradle and then go to your Gradle tab > forgegradle runs > runData to run datagen for the first time`
 
 **Your DataGen isn't doing anything**
@@ -127,6 +126,7 @@ in the template; names do matter!`
 
 **A:** Because I SAID SO!!! (LO is coded to specifically take that path to prevent mixups and clashing
 between it and addons)
+
 
 **Q:** Can I add more than just one of each accessory?
 
