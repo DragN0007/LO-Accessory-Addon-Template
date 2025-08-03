@@ -23,6 +23,12 @@ versionRange = "[1.20.1]"
 ordering = "NONE"
 side = "BOTH"
 [[dependencies.addon_template]]
+modId="dragnlivestock"
+mandatory=true
+versionRange = "[2.8,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.addon_template]]
 modId="geckolib"
 mandatory=true
 versionRange = "[4.4.4,)"
